@@ -7,7 +7,7 @@ if __name__ == '__main__':
     name = input('введите имя')
     many = int(input('введите деньги в час'))
     printing_people(name)
-    getin_many(name,many)
+    getin_many(name, many)
 
 
 
